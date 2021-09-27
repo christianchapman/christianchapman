@@ -6,22 +6,22 @@ Certs below
 
 Network
 =======
-CCIE (Routing and Switching) #14525
-CCIE (Service Provider) #14525
-CCIE (Security) #14525
+CCIE (Routing and Switching) #14525 <br>
+CCIE (Service Provider) #14525 <br>
+CCIE (Security) #14525 <br>
 
 
 Cyber
 =======
-CISSP #481030
-SANS GCIA (Intrusion Analysis) #11029
-SANS GCIH (Incident Handler) #26886
-SANS GPEN (Penetration Tester) #10666
-SANS GREM (Reverse Engineering Malware) #4788
+CISSP #481030 <br>
+SANS GCIA (Intrusion Analysis) #11029 <br>
+SANS GCIH (Incident Handler) #26886 <br>
+SANS GPEN (Penetration Tester) #10666 <br>
+SANS GREM (Reverse Engineering Malware) #4788 <br>
 
 
 Cloud
 ======
-AWS Certified Advanced Networking - Speciality
-AWS Certified Security - Speciality
+AWS Certified Advanced Networking - Speciality <br>
+AWS Certified Security - Speciality <br>
 
