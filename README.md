@@ -1,4 +1,4 @@
-Intrested in all things network,cloud and security - get in touch at christian@networkcloudsecurity.com
+Interested in all things network,cloud and security - get in touch at christian@networkcloudsecurity.com
 
 Certs below <br>
 #############
